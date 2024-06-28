@@ -3,14 +3,13 @@
     padding:0;
 }
 body {
-    background-color: rgb(236, 123, 167);
+    background-color: rgb(180, 80, 80);
     text-align: center;
 }
 h1{
-    background-color: #5a122e;
     color: azure;
     box-sizing: border-box;
-    padding:30px;
+    padding:10px;
     text-align: center;
     text-decoration:solid;
     font-family:Verdana;
@@ -54,7 +53,7 @@ img{
 }
 .msg{
 font-size: 2rem;
-background-color: #c20d67a8;
+background-color: #0c0609a8;
 color: blanchedalmond;
 display: inline-block;
 border: 1px solid #120f2e;
